@@ -1,0 +1,38 @@
+h1{
+    color: grey;
+    background-color: springgreen;
+}
+
+h3{
+    color:whitesmoke;
+    background-color: teal;
+}
+
+p{
+    color: white;
+    background-color: darkcyan;
+}
+
+button{
+    color:blue;
+    background-color: bisque;
+}
+
+body{
+    background-color: palevioletred;
+}
+
+.box{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    border-radius: 10%;
+    margin:10px;
+    text-align: center;
+    display: inline-block;
+    color: deeppink;
+    background-color: darkblue ;
+}
+
+
+/*                lecture-7           part-2                 */
