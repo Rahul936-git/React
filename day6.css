@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  /* box-sizing: border-box; is a CSS property that changes how the width and height of an element are calculated. Normally, with box-sizing: content-box (the default), the width and height only include the content. Padding and borders get added outside of that, making the element actually bigger.  But with box-sizing: border-box, padding and border are included inside the declared width and height. So the total size of the element stays exactly what you set — easier for layouts! */
+}
+
+#root{
+    background-color: grey;
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first{
+    background-color: slategray;
+    color: aliceblue;
+    border: 2px solid black;
+    padding: 5rem;
+}
+
+button{
+    margin: 5px;
+    padding: 5px;
+}
