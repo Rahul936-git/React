@@ -1,0 +1,23 @@
+body {
+  box-sizing: border-box;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+#root {
+  text-align: center;
+  background-color: #708090;
+  border: 2px solid #000;
+  border-radius: 20px;
+  width: 50vw;
+  padding: 40px 20px;
+}
+
+.second {
+  font-size: larger;
+  font-weight: bold;
+}
+/*# sourceMappingURL=day_8.0a15b963.css.map */

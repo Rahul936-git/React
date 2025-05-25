@@ -1,0 +1,24 @@
+
+body{
+    background-color: grey;
+    box-sizing: border-box;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#root{
+    width: 50vw;
+    background-color: slategrey;
+    border-radius: 20px;
+    padding: 40px 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.second{
+    font-size:larger;
+    font-weight: bold;
+}
