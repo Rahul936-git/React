@@ -1,0 +1,67 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#head {
+  background-color: #5f9ea0;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 300px;
+  display: flex;
+}
+
+h1 {
+  align-items: center;
+  font-size: 100px;
+  font-style: italic;
+}
+
+img {
+  border: 2px solid gray;
+  border-radius: 50%;
+  width: 30vh;
+  height: 30vh;
+}
+
+.cardholder {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 60px;
+  padding: 50px;
+  display: flex;
+}
+
+.cards {
+  text-align: center;
+  border: 2px solid #000;
+  gap: 35px;
+  padding: 35px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.input {
+  text-align: center;
+  height: 30px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+button {
+  color: #000;
+  background-color: #87ceeb;
+  height: 35px;
+}
+
+.club {
+  justify-content: space-around;
+  padding-top: 2vh;
+  display: flex;
+}
+/*# sourceMappingURL=day_9.5aa78948.css.map */
