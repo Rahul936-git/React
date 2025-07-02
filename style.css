@@ -1,0 +1,51 @@
+body{
+    background-color: teal;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid white;
+}
+
+
+#head{
+    background-color:crimson;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.change{
+    position: absolute;
+    right: 100px;
+}
+
+#card{
+    background-color:mediumvioletred;
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid white;
+    gap: 10px;
+}
+
+.card_box{
+    background-color:lightseagreen;
+    color: black;
+    border: 2px solid black;
+    padding: 15px;
+}
+
+
+button{
+    font-size:x-large;
+    margin-right: 5px;
+    background-color: thistle;
+} 

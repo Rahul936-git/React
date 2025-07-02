@@ -1,0 +1,50 @@
+body {
+  color: #f0f8ff;
+  text-align: center;
+  background-color: teal;
+  border: 2px solid #fff;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+#head {
+  color: #f0f8ff;
+  text-align: center;
+  background-color: #dc143c;
+  border: 2px solid #fff;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.change {
+  position: absolute;
+  right: 100px;
+}
+
+#card {
+  color: #f0f8ff;
+  text-align: center;
+  background-color: #c71585;
+  border: 2px solid #fff;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: flex;
+}
+
+.card_box {
+  color: #000;
+  background-color: #20b2aa;
+  border: 2px solid #000;
+  padding: 15px;
+}
+
+button {
+  background-color: #d8bfd8;
+  margin-right: 5px;
+  font-size: x-large;
+}
+/*# sourceMappingURL=Main_15.5aef37ae.css.map */
